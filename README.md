@@ -38,6 +38,11 @@ User-Friendly Interface :
 
 A simple text-based menu guides the user through various operations.
 
+
+Database : 
+
+here use the sqlite 3 database to store the date and admin see the all date of user 
+
 # Code Structure
 Account Class
 Represents a bank account with the following features:
